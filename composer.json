@@ -1,0 +1,13 @@
+{
+    "name": "jiaojie/dingtalk-robot-symfony-cli",
+    "description": "A component for symfony console application, using Alibaba's Dingtalk Robot Api.",
+    "type": "library",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "JIAO Jie",
+            "email": "thomasjiao@vip.qq.com"
+        }
+    ],
+    "require": {}
+}
